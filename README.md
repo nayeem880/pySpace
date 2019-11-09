@@ -1,5 +1,5 @@
 ## Welcome to pySpace
-[Website of this repository](https://github.com/nayeem990/pyplane/edit/master/README.md) 
+[Website of this repository](https://nayeem990.github.io/pySpace/) 
 
 #### Introduction
 pySpace is a beginners to advanced level python repository consist of  various programs, exercises and algoriths which includes numerous data stricture , coding style and program analytical processes. This well documented repository is Python for Data Science, Data Analyst and Artificial Intelligence oriented and anyone can have a good knowledge on python programs in one place.
