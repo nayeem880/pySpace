@@ -1,0 +1,6 @@
+We can use the ﬁle handle as the sequence in our for loop. 
+Our for loop simply counts the number of lines in the ﬁle and prints them out. The rough translation of the for loop into English is, “for each line in the ﬁle represented by the ﬁle handle, add one to the count variable.”
+The reason that the open function does not read the entire ﬁle is that the ﬁle might be quite large with many gigabytes of data. The open statement takes the same amount of time regardless of the size of the ﬁle. The for loop actually causes the data to be read from the ﬁle.
+When the ﬁle is read using a for loop in this manner, Python takes care of splitting the data in the ﬁle into separate lines using the newline character. Python reads each line through the newline and includes the newline as the last character in the line variable for each iteration of the for loop.
+Because the for loop reads the data one line at a time, it can eﬃciently read and count the lines in very large ﬁles without running out of main memory to store the data. The above program can count the lines in any size ﬁle using very little memory since each line is read, counted, and then discarded.
+If you know the ﬁle is relatively small compared to the size of your main memory, you can read the whole ﬁle into one string using the read method on the ﬁle handle.
