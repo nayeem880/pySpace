@@ -39,6 +39,6 @@ print("Welcome to python repository : pySpace !")
 ```
 
 #### Author 
-Mahmudul Hasan Nayeem
-Founder and CEO at Aliens
+Mahmudul Hasan Nayeem,
+Founder and CEO at Aliens,
 Artificial Intelligence Developer 
