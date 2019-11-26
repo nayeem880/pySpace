@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Welcome to pySpace
+[Website of this repository](https://github.com/nayeem990/pyplane/edit/master/README.md) 
 
-You can use the [editor on GitHub](https://github.com/nayeem990/pyplane/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#### Introduction
+pySpace is a beginners to advanced level python repository consist of  various programs, exercises and algoriths which includes numerous data stricture , coding style and program analytical processes. This well documented repository is Python for Data Science, Data Analyst and Artificial Intelligence oriented and anyone can have a good knowledge on python programs in one place.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Topics
+- Basic Concepts
+- Data Structures
+- Algorithms
+- GUI using tkinter
+- Exception Handling and 
+- Recursion
+- Over 1000 Exercises
 
-### Markdown
+#### Language, Framework and Technologies 
+- Python 3.7
+- Jupyter Notebook
+- Tkinter GUI library
+- Python Reference Guide
+
+
+### Books Covered 
+- Python Guide Documentation(Release 0.0.1) by Kenneth Reitz
+- Python for Everybody - Exploring Data Using Python 3 by Charles R. Severance
+- A Practical Introduction to Python Programming by Brian Heinold 
+- Advanced Python Programming by David M. Beazley
+- LEARNING TO PROGRAM WITH PYTHON by Richard L. Halterman
+- A Python Book: Beginning Python, Advanced Python, and Python Exercises Author by Dave Kuhlman 
+- Fundamentals of Programming Python DRAFT by Richard L. Halterman 
+- Expert Python Programming - Learn best practices to designing, coding, and distributing your Python software by Tarek Ziadé
+ 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+```
+print("Welcome to python repository : pySpace !")
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nayeem990/pyplane/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Author 
+Mahmudul Hasan Nayeem,
+Founder and CEO at Aliens,
+Artificial Intelligence Developer 
